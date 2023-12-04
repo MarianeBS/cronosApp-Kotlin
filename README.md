@@ -11,6 +11,3 @@ Aplicação feita em Kotlin que consiste na criação de um cronômetro, podendo
 <p>
   <img src="img/three.png" height="900px" align="middle">
 </p> 
-<p>
-  <img src="img/cronosvideo.mp4" height="900px" align="middle">
-</p> 
